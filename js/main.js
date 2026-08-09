@@ -12,7 +12,7 @@
      URL (see /google-apps-script.gs and /GOOGLE_SHEETS_SETUP.md
      for the exact copy-paste script + step-by-step setup).
      ========================================================= */
-  var GOOGLE_SHEET_ENDPOINT = "https://script.google.com/macros/s/REPLACE_WITH_YOUR_DEPLOYMENT_ID/exec";
+  var GOOGLE_SHEET_ENDPOINT = "https://script.google.com/macros/s/AKfycbyXp5DRlrmpUq3vFTTLxO6qpBNLC475LKBDgNMg8DA6RGyINK2NAIBhTjKeg8UE92o68A/exec";
 
   document.addEventListener("DOMContentLoaded", function () {
 
