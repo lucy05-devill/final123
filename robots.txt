@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /logistics.html
+Disallow: /trading.html
+Disallow: /industries.html
+
+Sitemap: https://www.slstechtrade.com/sitemap.xml
